@@ -115,4 +115,4 @@ If you find this project useful, please give it a ⭐ and share it with others!
 
 ---
 
-📧 **Contact:** For any queries, reach out to [your email or GitHub profile].
+📧 **Contact:** For any queries, reach out to mdasif231020@gmail.com.
