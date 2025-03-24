@@ -62,7 +62,7 @@ create_year_heatmap(convo_folder, 2024)
 This will generate a heatmap similar to this:
 
 📌 **Example Output:**  
-![ChatGPT Heatmap](images/chatgpt_heatmap.png)
+![ChatGPT Heatmap](chatgp.png)
 
 ### **2️⃣ Compare ChatGPT vs. Claude Usage**
 
@@ -76,7 +76,7 @@ create_comparison_heatmap(convo_folder, claude_convo_folder, 2024)
 ```
 
 📌 **Example Output:**  
-![ChatGPT vs Claude](images/comparison_heatmap.png)
+![ChatGPT vs Claude](chatgptvsclaude.png)
 
 ---
 
